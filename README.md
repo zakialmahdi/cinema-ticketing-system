@@ -16,7 +16,8 @@ A simple website designed to help users book movie tickets and order food and be
 
 ## Screenshots
 
-(Include screenshots, a live demo link, or GIFs here when available.)
+Login Page
+![Login screenshot](Screenshot 2026-08-05 113309.png)
 
 ---
 
