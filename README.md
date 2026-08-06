@@ -14,20 +14,25 @@ A simple website designed to help users book movie tickets and order food and be
 ## Screenshots
 
 Login Page
+
 ![Login screenshot](images/LoginPage.png)
 
 Registration Page
+
 ![Registration screenshot](images/RegisterPage.png)
 
 Main Page
+
 ![Main menu screenshot 1](images/MainPage-1.png)
 ![Main menu screenshot 2](images/MainPage-2.png)
 
 Checkout Page
+
 ![Checkout screenshot 1](images/CheckoutPage-1.png)
 ![Checkout screenshot 2](images/CheckoutPage-2.png)
 
 Admin Page
+
 ![Admin screenshot 1](images/AdminPage-1.png)
 ![Admin screenshot 2](images/AdminPage-2.png)
 
